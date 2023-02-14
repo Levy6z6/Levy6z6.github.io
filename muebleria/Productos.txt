@@ -1,0 +1,115 @@
+Producto 1:
+-------------
+Tulip
+Tapizado en azul.
+
+insert into productos(idImagen,nombre,descripcion,extra) values(1,"Tulip","Tapizado en azul.",1) 
+
+Producto 2:
+-------------
+Zen
+Disponible en madera de fresno.
+
+insert into(idImagen,nombre,descripcion,extra) values(2,"Zen","Disponible en madera de fresno.",2) 
+
+Producto 3:
+-------------
+Leaf Cuadrada
+Mesa cuadrada 4 patas.
+
+
+insert into(idImagen,nombre,descripcion,extra) values(3,"Leaf Cuadrada","Mesa cuadrada 4 patas.",3) 
+
+Producto 4:
+-------------
+Monet
+Asiento y respaldo en polipropileno.
+
+insert into(idImagen,nombre,descripcion,extra) values(4,"Monet","Asiento y respaldo en polipropileno.",4) 
+
+Producto 5:
+-------------
+Circa
+Disponible en tapiz morado.
+
+
+insert into(idImagen,nombre,descripcion,extra) values(5,"Circa","Disponible en tapiz morado.",5) 
+
+Producto 6:
+-------------
+Matisse
+Estructura cromada en coldrolled.
+
+insert into(idImagen,nombre,descripcion,extra) values(6,"Matisse","Estructura cromada en coldrolled.",6) 
+
+Producto 7:
+-------------
+Moon
+Silla en polipropileno.
+
+insert into(idImagen,nombre,descripcion,extra) values(7,"Moon","Silla en polipropileno.",7) 
+
+Producto 8:
+-------------
+Globe
+Silla en polipropileno color gris.
+
+insert into(idImagen,nombre,descripcion,extra) values(8,"Globe","Silla en polipropileno color gris.",8) 
+
+Producto 9:
+-------------
+Volta
+Silla estibable, base trineo.
+
+insert into(idImagen,nombre,descripcion,extra) values(9,"Volta","Silla estibable, base trineo.",9) 
+
+Producto 10:
+-------------
+Siluetta
+Estructura cromada.
+
+insert into(idImagen,nombre,descripcion,extra) values(10,"Siluetta","Estructura cromada.",10) 
+
+Producto 11:
+-------------
+Boné
+Silla en concha de madera. 
+
+insert into(idImagen,nombre,descripcion,extra) values(11,"Boné","Silla en concha de madera. ",11) 
+
+Producto 12:
+-------------
+Nona
+4 patas en madera natural.
+
+insert into(idImagen,nombre,descripcion,extra) values(12,"Nona","4 patas en madera natural. ",12) 
+
+Producto 13:
+-------------
+Decco
+Sofá de 1 plaza.
+
+insert into(idImagen,nombre,descripcion,extra) values(13,"Decco","Sofá de 1 plaza.",13) 
+
+Producto 14:
+-------------
+Kenna
+Sillón ejecutivo respaldo alto.
+
+insert into(idImagen,nombre,descripcion,extra) values(14,"Kenna","Sillón ejecutivo respaldo alto.",14) 
+
+Producto 15:
+-------------
+Trinity
+Base de espuma y ergonómica.
+
+insert into(idImagen,nombre,descripcion,extra) values(15,"Trinity","Base de espuma y ergonómica.",15) 
+
+
+
+
+
+
+
+
+
